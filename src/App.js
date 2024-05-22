@@ -1,12 +1,13 @@
 import React from 'react';
 import FeedbackForm from './FeedbackForm';
+import './App.css';
 
-const App = () => {
+function App() {
   return (
     <div className="App">
       <FeedbackForm />
     </div>
   );
-};
+}
 
 export default App;

@@ -1,0 +1,2 @@
+Cc2fK4yO7nJxoWAK
+mongodb+srv://gururajgurram1512:<password>@cluster0.si0ujp8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
